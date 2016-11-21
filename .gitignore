@@ -32,7 +32,7 @@ tmp/**/*
 classes/**
 classes/**/*
 work/**
-work**/*
+work/**/*
 *.tmp
 *.bak
 *.swp
